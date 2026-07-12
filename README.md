@@ -77,9 +77,7 @@ I love solving real-world problems, learning new technologies, and continuously 
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhosalesanika72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
+
 
 ## Frontend
 
@@ -460,6 +458,17 @@ Worked as a Java Programming Intern where I developed multiple Java applications
 </div>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhosalesanika72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhosalesanika72&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhosalesanika72&theme=tokyonight&hide_border=true"/>
+</p>
 
 # 🏆 GitHub Trophies
 
