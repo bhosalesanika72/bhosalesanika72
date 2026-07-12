@@ -410,3 +410,161 @@ Worked as a Java Programming Intern where I developed multiple Java applications
 - Software Engineering
 
 ---
+# 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/bhosalesanika72">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/>
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhosalesanika72&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhosalesanika72&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=bhosalesanika72&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhosalesanika72&theme=tokyonight&no-frame=true&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhosalesanika72&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+> Enable the `snake.yml` GitHub Action in your profile repository. After it runs, replace the line below with your generated SVG.
+
+```md
+![Snake animation](https://raw.githubusercontent.com/bhosalesanika72/bhosalesanika72/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+# ⚡ Current Focus
+
+```yaml
+Learning:
+  - Spring Boot
+  - React.js
+  - MongoDB
+  - REST APIs
+  - Data Structures & Algorithms
+
+Building:
+  - Placement Management System
+  - Resume Screening System
+
+Exploring:
+  - AI Integration
+  - Cloud Computing
+  - System Design
+
+Open To:
+  - Software Engineer Internships
+  - Full-Time Software Engineer Roles
+```
+
+---
+
+# 🌟 Fun Facts
+
+- 💜 I love solving coding problems.
+- ☕ Java is my favorite programming language.
+- 🌱 I enjoy learning new technologies.
+- 🚀 I like building projects that solve real-world problems.
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:bhosalesanika72@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/sanika-bhosale-sanikab">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/bhosalesanika72">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</div>
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+### "The best way to predict the future is to create it."
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6C63FF,100:7F00FF"/>
+
+</div>
