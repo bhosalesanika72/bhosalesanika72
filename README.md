@@ -441,44 +441,14 @@ Worked as a Java Programming Intern where I developed multiple Java applications
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhosalesanika72&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhosalesanika72&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=bhosalesanika72&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhosalesanika72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhosalesanika72&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhosalesanika72&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhosalesanika72&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bhosalesanika72&theme=tokyonight&hide_border=true"/>
 </p>
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhosalesanika72&theme=tokyonight&no-frame=true&column=4"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
