@@ -559,12 +559,8 @@ Open To:
 
 ---
 
-<div align="center">
+## 🐍 Contribution Snake
 
-## ⭐ Thanks for visiting my profile!
-
-### If you like my work, don't forget to ⭐ my repositories.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:6C63FF,100:7F00FF"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhosalesanika72/bhosalesanika72/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
