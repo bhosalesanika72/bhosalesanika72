@@ -77,6 +77,9 @@ I love solving real-world problems, learning new technologies, and continuously 
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhosalesanika72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</p>
 
 ## Frontend
 
